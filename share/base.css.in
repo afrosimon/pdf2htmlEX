@@ -164,7 +164,7 @@
 .@CSS_LINE_CN@ span { /* text blocks within a line */
   position:relative;
   /* _<id> for spaces may need display:inline, which will override this */ 
-  display:inline-block;
+  /*display:inline-block;*/
   unicode-bidi:bidi-override; /* For rtl languages, e.g. Hebrew, we don't want the default Unicode behaviour */
 }
 .@CSS_WHITESPACE_CN@ { /* text shift */
