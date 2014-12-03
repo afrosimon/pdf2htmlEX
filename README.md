@@ -3,7 +3,7 @@
 <!--
 [![Build Status](https://travis-ci.org/coolwanglu/pdf2htmlEX.png?branch=master)](https://travis-ci.org/coolwanglu/pdf2htmlEX)
 -->
->一图胜千言<br>A beautiful demo is worth a thousand words:
+>一图胜千言<br>A beautiful demo is worth a thousand words
 
 - **Bible de Genève, 1564** (fonts and typography): [HTML](http://coolwanglu.github.com/pdf2htmlEX/demo/geneve.html) / [PDF](https://github.com/raphink/geneve_1564/raw/master/geneve_1564.pdf)
 - **Cheat Sheet** (math formulas): [HTML](http://coolwanglu.github.com/pdf2htmlEX/demo/cheat.html) / [PDF](http://www.tug.org/texshowcase/cheat.pdf)
@@ -24,7 +24,7 @@ Learn more about [who](https://github.com/coolwanglu/pdf2htmlEX/wiki/Use-Cases) 
 * Native HTML text with precise font and location.
 * Flexible output: all-in-one HTML or on demand page loading (needs JavaScript).
 * Moderate file size, sometimes even smaller than PDF.
-* Support for links, outlines (bookmarks), printing, SVG background, Type 3 fonts and [more...](https://github.com/coolwanglu/pdf2htmlEX/wiki/Feature-List)
+* Supporting links, outlines (bookmarks), printing, SVG background, Type 3 fonts and [more...](https://github.com/coolwanglu/pdf2htmlEX/wiki/Feature-List)
 
 [Compare to others](https://github.com/coolwanglu/pdf2htmlEX/wiki/Comparison)
 
